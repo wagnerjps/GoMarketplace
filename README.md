@@ -25,9 +25,11 @@ Aqui esta uma print dos testes realizados com sucesso.
 
 ## :iphone: Imagens
 
-Alguns prints da aplicação
-<img alt="GoStack" src="./print_app_01.png" />
-<img alt="GoStack" src="./print_app_02.png" />
+Alguns prints da aplicação:
+<div>
+<img alt="GoStack" width=200px src="./print_app_01.png" />
+<img alt="GoStack" width=200px src="./print_app_02.png" />
+</div>
 
 
 ## :snowflake: Template
